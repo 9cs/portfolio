@@ -146,31 +146,4 @@ export const DATA = {
       image: "/revio.png",
       video: "",
     },
-    {
-      title: "Dreamgirl Agency",
-      href: "https://onlyfans-agency.vercel.app",
-      dates: "Nov 2024 - Nov 2024",
-      active: true,
-      description:
-        "Site feito para um cliente, cujo o tema era uma agência de modelos.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Aceternity UI",
-        "Framer",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://onlyfans-agency.vercel.app",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/dreamgirl.png",
-      video: "",
-    },
-  ],
 } as const;
