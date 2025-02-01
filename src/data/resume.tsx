@@ -145,5 +145,4 @@ export const DATA = {
       ],
       image: "/revio.png",
       video: "",
-    },
 } as const;
