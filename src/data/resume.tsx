@@ -93,7 +93,7 @@ export const DATA = {
       dates: "Fev 2025 - Atual",
       active: true,
       description:
-        "O Pote Manager é um projeto de semestral de faculdade que está sendo desenvolvido por mim e colegas de grupo, onde criamos um gerenciador financeiro com objetivo de facilitar a visão do usuário sobre suas finanças utilizando a tecnologia.",
+        "O Pote Manager é um projeto que está sendo desenvolvido por mim e alguns amigos, onde criamos um gerenciador financeiro com objetivo de facilitar a visão do usuário sobre suas finanças utilizando a tecnologia.",
       technologies: [
         "Next.js",
         "Typescript",
@@ -111,11 +111,6 @@ export const DATA = {
           href: "https://pmg-es-2024-2-ti2-3740100-gerenciador-financeiro.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
-        {
-          type: "Source",
-          href: "https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti2-3740100-gerenciador-financeiro",
-          icon: <Icons.github className="size-3" />,
-        },
       ],
       image: "",
       video: "pote_manager.mp4",
@@ -126,7 +121,7 @@ export const DATA = {
       dates: "Nov 2024 - Dez 2024",
       active: true,
       description:
-        "Landing page de um serviço de desbanimento de contas do Instagram feito para um cliente .",
+        "Landing page de um serviço de contas do Instagram feito para um cliente.",
       technologies: [
         "Next.js",
         "Typescript",
