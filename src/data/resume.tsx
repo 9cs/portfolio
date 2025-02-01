@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Desenvolvimento Fullstack. Sou freelancer nas horas vagas e busco sempre melhorar um pouco a cada dia.",
   summary:
-    "Entusiasta de tecnologias e jogos desde de criança, despertei meu interesse pelo desenvolvimento por volta de 2019, ainda com meus 13 anos de idade. Aprendendo apenas o básico de Python, despertei uma grande admiração e vontade de desenvolver. Desde então, venho aprendendo cada vez mais sobre tecnologias, e recentemente começei o meu curso em Engenheria de Software e estou buscando uma vaga de estágio.",
+    "Entusiasta de tecnologias e jogos desde de criança, despertei meu interesse pelo desenvolvimento por volta de 2019, ainda com meus 13 anos de idade. Aprendendo apenas o básico de Python, despertei uma grande admiração e vontade de desenvolver. Desde então, venho aprendendo cada vez mais sobre tecnologias, e recentemente comecei o meu curso em Engenheria de Software e estou buscando uma vaga de estágio.",
   avatarUrl: "/me.jpg",
   skills: [
     "English",
