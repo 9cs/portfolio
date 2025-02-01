@@ -90,7 +90,7 @@ export const DATA = {
     {
       title: "Pote Manager",
       href: "https://pmg-es-2024-2-ti2-3740100-gerenciador-financeiro.vercel.app/",
-      dates: "Ago 2025 - Atual",
+      dates: "Fev 2025 - Atual",
       active: true,
       description:
         "O Pote Manager é um projeto de semestral de faculdade que está sendo desenvolvido por mim e colegas de grupo, onde criamos um gerenciador financeiro com objetivo de facilitar a visão do usuário sobre suas finanças utilizando a tecnologia.",
