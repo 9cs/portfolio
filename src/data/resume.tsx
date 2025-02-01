@@ -90,7 +90,7 @@ export const DATA = {
     {
       title: "Pote Manager",
       href: "https://pmg-es-2024-2-ti2-3740100-gerenciador-financeiro.vercel.app/",
-      dates: "Ago 2024 - Atual",
+      dates: "Ago 2025 - Atual",
       active: true,
       description:
         "O Pote Manager é um projeto de semestral de faculdade que está sendo desenvolvido por mim e colegas de grupo, onde criamos um gerenciador financeiro com objetivo de facilitar a visão do usuário sobre suas finanças utilizando a tecnologia.",
@@ -123,10 +123,10 @@ export const DATA = {
     {
       title: "Revio",
       href: "https://revio.cc",
-      dates: "Nov 2024 - Nov 2024",
+      dates: "Nov 2024 - Dez 2024",
       active: true,
       description:
-        "Landing page de um serviço de desbanimento de contas do Instagram feito para um cliente.",
+        "Landing page de um serviço de desbanimento de contas do Instagram feito para um cliente .",
       technologies: [
         "Next.js",
         "Typescript",
